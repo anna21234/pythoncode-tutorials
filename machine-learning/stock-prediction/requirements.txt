@@ -1,5 +1,5 @@
 sklearn
-tensorflow
+tensorflow == 2.5.3
 matplotlib
 numpy
 pandas
